@@ -13,8 +13,6 @@ import Landing from './Landing';
 import Navbar from './Navbar';
 import Work from './Work';
 
-import '../public/App.css';
-
 class App extends Component {
   render() {
     return (
